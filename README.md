@@ -24,3 +24,4 @@ The original version of this app was built using Flutter and Django, focusing on
 - Data storage
 - Data retrieval
 - Data analysis (optional)
+(The original project repository is currently private.)
